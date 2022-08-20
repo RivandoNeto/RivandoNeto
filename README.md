@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RivandoNeto
 - 👀 I’m interested in computer engineering.
 - 🌱 I’m currently learning programming.
-- 💞️ I’m looking to collaborate on computing.
+- 💞️ I’m looking to collaborate on programming.
 - 📫 How to reach me? Send me an e-mail: rivandobcn@gmail.com
 
 <!---
